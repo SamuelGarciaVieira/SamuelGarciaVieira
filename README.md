@@ -3,6 +3,6 @@ Olá! Sou um desenvolvedor iniciante com foco em C#, trabalhando em projetos com
 ## Sobre Mim
 
 - 🎓 Estudante de **Sistemas de Informação** na **PUC Minas**.
-- 🌱 Atualmente estudando C#, SQL, Javascript.
+- 🌱 Atualmente estudando C#, SQL, Python.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelGarciaVieira&show_icons=true&theme=transparent)
